@@ -83,7 +83,7 @@ python main.py
 ```bash
 mlflow ui
 ```
-Then open [http://localhost:5000](http://localhost:5000)
+Then open [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
