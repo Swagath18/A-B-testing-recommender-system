@@ -23,6 +23,8 @@ This project simulates and visualizes an A/B test comparing a baseline popularit
 
 ## How It Works
 
+![Workflow](./workflow.png)
+
 1. **Dataset**:
    - `Interactions.csv`: User-item interactions
    - `item_metadata_tfidf.csv`: Item descriptions
